@@ -1,0 +1,23 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "graphql",
+    "html",
+    "yaml",
+    "json",
+    "python",
+    "ruby",
+    "solargraph"
+  ],
+
+  // python config
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+
+  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/utils/snips"],
+
+  // ruby config
+  "solargraph.diagnostics": true
+}
